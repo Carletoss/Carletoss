@@ -1,4 +1,4 @@
-<h1 align="center">
+   w<h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=800080&lines=Welcome+There!+👋;+I'm+Carlos+Goes!" />
 </h1>
 
@@ -22,7 +22,7 @@
  
    <!-- Language e tools -->
 
- <h3 aling="left">📚My lenguages~</h3>
+ <h3 aling="left">📚My languages~</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js" /> <br><br>
