@@ -4,7 +4,7 @@
 
 <!-- GitHub Stats -->
 ## <img src="https://i.pinimg.com/originals/c7/73/e5/c773e5cc1479ed47e2709a49f529a9b7.gif" width="30"> **About Me:** 
--  Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
+-  Now I'm a student of Software Engineer at Fiap -  Faculdade de Informática e Administração Paulista"
 
 
 <div style="text-align: center;" align="center">
