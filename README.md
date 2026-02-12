@@ -15,7 +15,22 @@
     <br>
 </div>
 
+  <!-- redes sociais -->
+<h3 align="center">🌎 Minhas Redes</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-goes-55b531353/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/carlinhossssssssssss/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:goescadu5@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
  
    <!-- Language e tools -->
 
@@ -40,19 +55,4 @@
 
 <div style="text-align: center;" align="center">
 
-   <!-- redes sociais -->
-<h3 align="center">🌎 Minhas Redes</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlos-goes-55b531353/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/carlinhossssssssssss/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="mailto:goescadu5@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+ 
