@@ -28,7 +28,7 @@
 
 <h3 aling="left">🖥️My Tools</h3>
 <div aling="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij,git,github,figma,docker," /> <br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,figma,docker," /> <br><br>
   <img width="8" />   
 </div>
 
