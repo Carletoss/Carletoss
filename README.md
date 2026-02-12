@@ -22,10 +22,10 @@
  
    <!-- Language e tools -->
 
-<h3 aling="left">📚My languages~</h3>
+<h3 aling="left">📚My languages & Frameworks</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js," /> <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,python,cs,mysql," /> <br><br>
   <img width="8" />
 </div>
 
