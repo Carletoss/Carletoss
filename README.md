@@ -22,7 +22,7 @@
 <h3 aling="left">📚My languages & Frameworks</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,tailwindcss,cs,python,mysql,postgreSQL,java,php," /> <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,tailwindcss,cs,python,mysql,postgresql,java,php," /> <br><br>
   <img width="8" />
 </div>
 
@@ -34,7 +34,7 @@
 
 <h3 align="left">📚 Current Learning</h3>
 <div aling="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgreSQL" /> <br><br>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" /> <br><br>
   <img width="8" />   
 </div>
 
